@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YrVtJvA6KKhF8L0QPWf2fcFkr4iYjYNMIz7ZKwo9CeIe4FtTxXFV2QYC5B5BxaZJ7prLH+Llwh0/cmQZau50pQ==",
+  "success": true,
+  "projectFilePath": "D:\\lab 3\\Project1\\Project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serhii\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Serhii\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Serhii\\.nuget\\packages\\newtonsoft.json.schema\\4.0.1\\newtonsoft.json.schema.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
